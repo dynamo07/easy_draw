@@ -1,3 +1,3 @@
 # test
-Just for test
+just for test
 Changed in another branch.
