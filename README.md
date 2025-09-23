@@ -1,8 +1,10 @@
 # Easy Draw
 A shortcut-only on-screen annotation software for Windows inspired by gInk (https://github.com/geovens/gInk).
 
-Pressing Ctrl + 2 can enter the draw mode. You can then hold the left mouse button to draw freehand lines.
-Pressing Ctrl + 2 again can allow you to click through the drawing layer. Therefore, you can continue to operate your computer normally.
+## Features:
+Pressing Ctrl + 2 can enter the drawing mode, in which you cannot operate on your computer but draw on the screen. 
+Hold the left mouse button to draw freehand lines.
+Pressing Ctrl + 2 again allows you to return to the regular operation of your computer.
 
 Scrolling the mouse wheel allows you to change the line width within a specified range, indicated by a circle.
 
