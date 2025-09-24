@@ -23,4 +23,6 @@ Pressing **E** toggles the erase mode. Hold the left mouse button to erase drawi
 
 Pressing **D** clears all.
 
+Toggle **M** toggles the magnifier mode. In this mode, you can hold the left mouse button to drag a rectangle, which acts as a magnifier, allowing you to enlarge the content under your cursor. Scrolling the mouse wheel can adjust the zoom level.
+
 To exit the program, click the program's icon in the system tray and select **Exit** from the pop-up menu. The **Open config.txt** option in the menu allows you to customize the shortcuts.
