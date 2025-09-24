@@ -4,7 +4,7 @@ A shortcut-only on-screen annotation software for Windows inspired by gInk (http
 <img width="950" height="285" alt="{3E360FB7-76B6-480A-881F-2CBC63560104}" src="https://github.com/user-attachments/assets/cdc34d78-20fb-4a25-a903-a91a7cd54bcf" />
 
 ## Compile (MinGW-w64):
-g++.exe easy_draw.cpp -o Easy_Draw.exe -pipe -flto -mwindows -municode -Wl,--stack,12582912 -s -ld3d11 -ldxgi -ld2d1 -ldwrite -ldcomp -lole32 -luuid -lshell32 -lgdi32 -ldxguid -mwindows -static
+g++ easy_draw.cpp -o Easy_Draw.exe -pipe -flto -mwindows -municode -Wl,--stack,12582912 -s -ld3d11 -ldxgi -ld2d1 -ldwrite -ldcomp -lole32 -luuid -lshell32 -lgdi32 -ldxguid -mwindows -static
 
 ## Features:
 Pressing **Ctrl + 2** can enable all features, allowing you to **hold the left mouse button** to draw freehand lines on the screen. 
