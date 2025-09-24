@@ -1,6 +1,7 @@
 # Easy Draw
 A shortcut-only on-screen annotation software for Windows inspired by gInk (https://github.com/geovens/gInk).
 
+<img width="950" height="285" alt="{3E360FB7-76B6-480A-881F-2CBC63560104}" src="https://github.com/user-attachments/assets/cdc34d78-20fb-4a25-a903-a91a7cd54bcf" />
 
 
 ## Features:
@@ -16,7 +17,7 @@ To apply a highlighter style to a color, press **Ctrl + the corresponding color 
 
 Pressing **E** toggles the erase mode. Hold the left mouse button to erase drawings. A square indicates the eraser size, which you can change by scrolling the mouse wheel. To exit the erase mode, press a color key or right-click.
 
-**Ctrl + Z** is undo; **Ctrl + Y** is redo.
+**Ctrl + Z** is undo; **Ctrl + A** is redo.
 
 Pressing **D** clears all.
 
