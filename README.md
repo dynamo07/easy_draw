@@ -6,7 +6,7 @@ A shortcut-only on-screen annotation software for Windows, inspired by gInk.
 ## Compile (MinGW-w64):
 g++ easy_draw.cpp -o Easy_Draw.exe -mwindows -municode -Wl,--stack,12582912 -s -ld3d11 -ldxgi -ld2d1 -ldwrite -ldcomp -lole32 -luuid -lshell32 -lgdi32 -ldxguid -mwindows -static
 
-## Features:
+## Features (freehand lines, text, highlighter, eraser, magnifier):
 Pressing **Ctrl + 2** can enable all features, allowing you to **hold the left mouse button** to draw freehand lines on the screen. 
 However, you cannot operate on the underlying window unless you press **Ctrl + 2** again to disable it. What you have drawn will be kept on the screen.
 
@@ -23,6 +23,6 @@ Pressing **E** toggles the erase mode. Hold the left mouse button to erase drawi
 
 Pressing **D** clears all.
 
-Toggle **M** toggles the magnifier mode. In this mode, you can hold the left mouse button to drag a rectangle, which acts as a magnifier, allowing you to enlarge the content under your cursor. Scrolling the mouse wheel can adjust the zoom level.
+Pressing **M** toggles the magnifier mode. In this mode, you can hold the left mouse button to drag a rectangle, which acts as a magnifier, allowing you to enlarge the content under your cursor. Scrolling the mouse wheel can adjust the zoom level.
 
 To exit the program, click the program's icon in the system tray and select **Exit** from the pop-up menu. The **Open config.txt** option in the menu allows you to customize the shortcuts.
