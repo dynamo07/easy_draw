@@ -11,7 +11,7 @@ g++ easy_draw.cpp -o Easy_Draw.exe -mwindows -municode -Wl,--stack,12582912 -s -
 ## Features (freehand line, text, highlighter, eraser, magnifier):
 Pressing **Ctrl + 2** can enable all features, allowing you to **hold the left mouse button** to draw freehand lines on the screen. 
 However, you cannot operate on the underlying window unless you press **Ctrl + 2** again to disable it. What you have drawn will be kept on the screen.
-It is optimized for drawing on the touch screen by one finger.
+It is also optimized for drawing on the touch screen by one finger.
 
 **Scrolling the mouse wheel** can adjust the line width, which is indicated by a circle.
 
