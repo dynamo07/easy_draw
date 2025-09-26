@@ -12,19 +12,19 @@ g++ easy_draw.cpp -o Easy_Draw.exe -mwindows -municode -Wl,--stack,12582912 -s -
 Pressing **Ctrl + 2** can enable all features, allowing you to **hold the left mouse button** to draw freehand lines on the screen. 
 However, you cannot operate on the underlying window unless you press **Ctrl + 2** again to disable it. What you have drawn will be kept on the screen.
 
-**Scrolling the mouse wheel** can adjust the line width, with a circle previewing the thickness.
+**Scrolling the mouse wheel** can adjust the line width, which is indicated by a circle.
 
 Pressing a color key (**R, G, B, Y, C, O, P, K, W, V**) changes the color to red, green, blue, yellow, cyan, orange, pink, black, white, or violet.
 To apply a highlighter style to a color, press **Ctrl + the corresponding color key** (e.g., **Ctrl + R**).
 
 **Clicking the right mouse button** enables you to type text at the cursor's location. A vertical line indicates the text size, which you can adjust with the mouse wheel. To exit text mode, click the left mouse button or hold it down to draw.
 
-Pressing **E** toggles the erase mode. Hold the left mouse button to erase drawings. A square indicates the eraser size, which you can change by scrolling the mouse wheel. To exit the erase mode, press a color key or right-click.
+Pressing **E** toggles the erase mode. Hold the left mouse button to erase drawings. A square indicates the eraser size, which you can change by scrolling the mouse wheel. To exit the erase mode, press **E**, a color key, or right-click.
 
 **Ctrl + Z** is undo; **Ctrl + A** is redo.
 
 Pressing **D** clears all.
 
-Pressing **M** toggles the magnifier mode. In this mode, you can hold the left mouse button to drag a rectangle, which acts as a magnifier, allowing you to enlarge the content under your cursor. Scrolling the mouse wheel can adjust the zoom level.
+Pressing **M** toggles the magnifier mode. In this mode, you can hold the left mouse button to drag a rectangle, which acts as a magnifier, allowing you to enlarge the content under your cursor. Scrolling the mouse wheel can adjust the zoom level. To exit the magnifier mode, press **M** again.
 
 To exit the program, click the program's icon in the system tray and select **Exit** from the pop-up menu. The **Open config.txt** option in the menu allows you to customize the shortcuts.
