@@ -1,6 +1,6 @@
 # Easy Draw
 A shortcut-only on-screen annotation software for Windows, inspired by gInk.
-It is designed for teaching.
+It is designed to assist teaching.
 
 <img width="950" height="285" alt="{3E360FB7-76B6-480A-881F-2CBC63560104}" src="https://github.com/user-attachments/assets/cdc34d78-20fb-4a25-a903-a91a7cd54bcf" />
 
