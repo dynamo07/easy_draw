@@ -27,7 +27,7 @@ Pressing **E** toggles the eraser mode. Hold the left mouse button to erase draw
 
 Pressing **D** clears all.
 
-Pressing **S** to take a screenshot and save it to the Pictures folder by default.
+Pressing **S** takes a screenshot and saves it to the Pictures folder by default.
 
 Pressing **M** toggles the magnifier mode. In this mode, you can hold the left mouse button to drag a rectangle, which acts as a magnifier, allowing you to enlarge the content under your cursor. Scrolling the mouse wheel can adjust the zoom level. To exit the magnifier mode, press **M** again.
 
