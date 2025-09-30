@@ -8,7 +8,7 @@ g++ easy_draw.cpp -o Easy_Draw.exe -mwindows -municode -Wl,--stack,12582912 -s -
 
 [Download the precompiled Easy Draw executable (Windows 11)](https://github.com/dynamo07/easy_draw/releases/download/1.3.0/Easy_Draw.exe)
 
-## Features (freehand line, text, highlighter, eraser, magnifier):
+## Features (freehand line, text, highlighter, eraser, screenshot, and magnifier):
 Pressing **Ctrl + 2** enables all features, allowing you to **hold the left mouse button** to draw freehand lines on the screen. 
 However, you cannot operate on the underlying window unless you press **Ctrl + 2** again to disable it. What you have drawn will be kept on the screen.
 It is also optimized for drawing on the touch screen with one finger.
