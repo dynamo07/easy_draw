@@ -12,7 +12,8 @@ g++ easy_draw.cpp -o Easy_Draw.exe -mwindows -municode -Wl,--stack,12582912 -s -
 ## Features (freehand line, text, highlighter, eraser, screenshot, and magnifier):
 Pressing **Ctrl + 2** enables all features, allowing you to **hold the left mouse button** to draw freehand lines on the screen. 
 However, you cannot operate on the underlying window unless you press **Ctrl + 2** again to disable it. What you have drawn will be kept on the screen.
-It is also optimized for drawing on the touch screen with one finger.
+It is also optimized for drawing on the touch screen with one finger. An extended screen is supported.
+
 
 **Scrolling the mouse wheel** can adjust the line width, which is indicated by a circle.
 
@@ -33,4 +34,4 @@ Pressing **S** takes a full screenshot and saves it to the Pictures folder by de
 
 Pressing **M** toggles the magnifier mode. In this mode, you can hold the left mouse button to drag a rectangle, which acts as a magnifier, allowing you to enlarge the content under your cursor. Scrolling the mouse wheel can adjust the zoom level. To exit the magnifier mode, press **M** again.
 
-To exit the program, click the program's icon in the system tray and select **Exit** from the pop-up menu. The **Open config.txt** option in the menu allows you to customize the shortcuts. An extended screen is supported.
+To exit the program, click the program's icon in the system tray and select **Exit** from the pop-up menu. The **Open config.txt** option in the menu allows you to customize the shortcuts.
